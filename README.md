@@ -6,4 +6,4 @@ Its a simple code that allows you to run test to make sure that the code that yo
 
 For execution , use the following command on command prompt on the directory where file resides
 
-python -m doctest -v Testmodule01.py (
+python -m doctest -v DocTestSampleCode.py
